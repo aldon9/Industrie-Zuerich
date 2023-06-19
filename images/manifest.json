@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4271,
+    "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/canvas/",
+    "label" : {
+      "none" : [ "StAZH_PLAN_D_202" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 134,
+              "height" : 189
+            }, {
+              "width" : 267,
+              "height" : 378
+            }, {
+              "width" : 534,
+              "height" : 755
+            }, {
+              "width" : 1068,
+              "height" : 1509
+            }, {
+              "width" : 2136,
+              "height" : 3017
+            }, {
+              "width" : 4271,
+              "height" : 6033
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4271,
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6033
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4271,
+          "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6033
+        },
+        "target" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/canvas/"
+      } ]
+    } ],
+    "height" : 6033
+  }, {
     "width" : 5487,
     "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_205/canvas/",
     "label" : {
