@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://aldon9.github.io/Seidenindustrie/manifests/manifestSeidenindustrie.json",
-    "label" : "Seidenindustrie in Zürich"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://aldon9.github.io/Seidenindustrie/manifests/Seidenindustrie.json",
     "label" : "Seidenindustrie in Zürich"
   } ]
