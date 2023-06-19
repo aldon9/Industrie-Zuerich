@@ -1,0 +1,66 @@
+{
+  "id" : "https://aldon9.github.io/Seidenindustrie/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in aldon9/Seidenindustrie project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2825,
+    "id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/canvas/",
+    "label" : {
+      "none" : [ "Z.451.1065" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 71
+            }, {
+              "width" : 177,
+              "height" : 142
+            }, {
+              "width" : 354,
+              "height" : 283
+            }, {
+              "width" : 707,
+              "height" : 565
+            }, {
+              "width" : 1413,
+              "height" : 1130
+            }, {
+              "width" : 2825,
+              "height" : 2259
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2825,
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2259
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2825,
+          "id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2259
+        },
+        "target" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/canvas/"
+      } ]
+    } ],
+    "height" : 2259
+  } ]
+}
