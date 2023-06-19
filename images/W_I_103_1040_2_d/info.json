@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 117,
+    "height" : 78
+  }, {
+    "width" : 233,
+    "height" : 155
+  }, {
+    "width" : 466,
+    "height" : 310
+  }, {
+    "width" : 931,
+    "height" : 620
+  }, {
+    "width" : 1862,
+    "height" : 1240
+  }, {
+    "width" : 3724,
+    "height" : 2480
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3724,
+  "@id" : "https://aldon9.github.io/Seidenindustrie/images/W_I_103_1040_2_d",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2480
+}
