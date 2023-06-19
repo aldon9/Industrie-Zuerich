@@ -1,0 +1,13 @@
+{
+  "id" : "https://aldon9.github.io/Seidenindustrie/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in aldon9/Seidenindustrie project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aldon9.github.io/Seidenindustrie/manifests/manifestSeidenindustrie.json",
+    "label" : "Seidenindustrie in Zürich"
+  } ]
+}
