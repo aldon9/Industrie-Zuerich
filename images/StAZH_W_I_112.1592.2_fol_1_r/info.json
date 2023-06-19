@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 83,
+    "height" : 110
+  }, {
+    "width" : 165,
+    "height" : 220
+  }, {
+    "width" : 330,
+    "height" : 439
+  }, {
+    "width" : 659,
+    "height" : 877
+  }, {
+    "width" : 1318,
+    "height" : 1754
+  }, {
+    "width" : 2636,
+    "height" : 3508
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2636,
+  "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1592.2_fol_1_r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3508
+}
