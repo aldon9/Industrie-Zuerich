@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 3508,
+    "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/canvas/",
+    "label" : {
+      "none" : [ "StAZH_W_I_108.183.31" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 110,
+              "height" : 99
+            }, {
+              "width" : 220,
+              "height" : 198
+            }, {
+              "width" : 439,
+              "height" : 396
+            }, {
+              "width" : 877,
+              "height" : 792
+            }, {
+              "width" : 1754,
+              "height" : 1584
+            }, {
+              "width" : 3508,
+              "height" : 3168
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3508,
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3168
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3508,
+          "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3168
+        },
+        "target" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/canvas/"
+      } ]
+    } ],
+    "height" : 3168
+  }, {
+    "width" : 3508,
     "id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.32/canvas/",
     "label" : {
       "none" : [ "StAZH_W_I_108.183.32" ]
