@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aldon9.github.io/Seidenindustrie/manifests/Seide-aus-Zuerich.json",
     "label" : "Seidenindustrie in Zürich"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aldon9.github.io/Seidenindustrie/manifests/Manifest_Kopie.json",
+    "label" : "Seidenindustrie in Zürich"
   } ]
 }
